@@ -15,3 +15,4 @@
 
 - [Revisions and the Cloud](read2b.md)
 
+- [JavaScript can be used](read04.md)

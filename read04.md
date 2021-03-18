@@ -1,4 +1,4 @@
-1- JavaScript can be used
+# JavaScript can be used
 in browsers to make websites more interactive,
 Being able to change the content of an HTML page while it is loaded in
 the browser
