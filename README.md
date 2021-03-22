@@ -19,5 +19,4 @@
 
 - [Operators and Loops](read05.md)
 
-- [CSS](read06.md)
-- 
+- [CSS ](read06.md)
