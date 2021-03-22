@@ -18,3 +18,6 @@
 - [JavaScript can be used](read04.md)
 
 - [Operators and Loops](read05.md)
+
+- [CSS](read06.md)
+- 
