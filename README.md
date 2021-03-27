@@ -23,7 +23,7 @@
 
 ## Code 201 Reading Notes
 
-- [Read01](Html/201/class01.md)
+- [Read01](class1.md)
 
 - [Read02](class02.md)
 
