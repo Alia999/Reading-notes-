@@ -5,7 +5,7 @@
 *A  fresh graduate translater*
 
 
-## Code 102 Reading Notes
+## Code 102 Reading-Notes
 
 - [Growth Mindset](lab02.md)
 
