@@ -25,7 +25,7 @@
 
 - [Read01](class1.md)
 
-- [Read02](class02.md)
+- [Read02](class2.md)
 
 - [Read03](class03.md)
 
