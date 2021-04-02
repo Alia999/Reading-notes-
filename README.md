@@ -33,7 +33,7 @@
 
 - [Read05](class5.md)
 
-- [Read06](class06.md)
+- [Read06](class6.md)
 
 - [Read07](class07.md)
 
