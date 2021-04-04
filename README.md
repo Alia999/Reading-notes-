@@ -35,7 +35,7 @@
 
 - [Read06](class6.md)
 
-- [Read07](class07.md)
+- [Read07](class7.md)
 
 - [Read08](class08.md)
 
